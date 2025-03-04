@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code in your research, please cite the following paper."
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+    orcid: "https://orcid.org/0000-0000-0000-0000"  # Optional
+title: "Your Paper Title"
+version: "1.0.0"
+doi: "10.XXXX/your-doi"  # Replace with your paper's DOI or remove if not applicable
+date-released: "2024-03-04"
+repository-code: "https://github.com/yourusername/your-repo"
+license: "MIT"  # Adjust to match your chosen license
+type: "article"
