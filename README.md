@@ -14,7 +14,7 @@ The codes enable users to extract runup values from timestack images under the c
 
 Meye Janne van der Grinten 
 
-Contact: meye.vandergrinten
+Contact: meye.vandergrinten@gmail.com
 
 # License
 
