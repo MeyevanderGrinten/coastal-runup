@@ -1,6 +1,6 @@
 # coastal-runup
 
-Welcome to Coastal Runup: Python-based methods for runup extraction on dissipative beaches. This repository contains Python code to delineate runup from timestack images following:
+Welcome to Coastal Runup: Python-based methods for runup extraction on dissipative beaches. This repository contains Python code to delineate runup from timestack images with:
 
 1) A color contrast (CC) method based on local entropy and saturation, and
 2) A machine learning (ML) method based on a simple convolutional neural network (CNN) type architecture informed by five preprocessed input channels of the original timestack image: the grayscale image, I, the
@@ -19,3 +19,10 @@ Contact: meye.vandergrinten@gmail.com
 # License
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
+
+# Citation 
+
+If you use this code in your research, please cite the following paper:
+Wave runup extraction on dissipative beaches: new video-based methods
+Authors
+[DOI]
